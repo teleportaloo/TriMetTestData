@@ -8,7 +8,7 @@
 <trip id="8175923" newTrip="false" desc="Hatfield Government Center" dir="1" route="100" destDist="159579" pattern="54" progress="79150"/>
 </blockPosition>
 </arrival>
-<arrival id="8175925_89520_14" blockID="9004" departed="true" dir="1" status="estimated" estimated="1523778822000" showMilesAway="false" dropOffOnly="false" fullSign="MAX Blue Line to Hillsboro" piece="1" route="100" scheduled="1523778720000" shortSign="Blue to Hillsboro" locid="9837" tripID="8175925" newTrip="false" detoured="true" feet="89141" vehicleID="126" loadPercentage="70" inCongestion="true" reason="Bridge lift">
+<arrival id="8175925_89520_14" blockID="9004" departed="true" dir="1" status="estimated" estimated="1523778822000" showMilesAway="false" dropOffOnly="true" fullSign="MAX Blue Line to Hillsboro" piece="1" route="100" scheduled="1523778720000" shortSign="Blue to Hillsboro" locid="9837" tripID="8175925" newTrip="false" detoured="true" feet="89141" vehicleID="126" loadPercentage="70" inCongestion="true" reason="Bridge lift">
 <trackingError timestamp="1523776319518" offRoute="true" desc=""/>
 <detour id="17"/>
 <detour id="1"/>
