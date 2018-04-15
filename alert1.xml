@@ -6,10 +6,10 @@
     <alert begin="1495713600000" end="" id="10" info_link_url="" header_text="" system_wide_flag="false" desc="No service to northbound stops on SW 158th Ave at Jenkins (Stop ID 8234), Jay (Stop ID 6839), Baseline (Stop ID 8232) and Greystone Ct (Stop ID 13202), due to construction. Use stops before or after at Merlo Rd/SW 158th MAX Stn (Stop ID 12899) or SW 158th &amp; Walker (Stop ID 6832). Test (Stop ID bad) (Stop ID ">
         <route xmlns="urn:trimet:schedule" desc="67-Bethany/158th" route="67" id="67" type="B" no_service_flag="false"/>
     </alert>
-    <alert begin="1492010100000" end="" id="11" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to Beaverton Transit Center, no service to NW Springville &amp; 181st (Stop ID 8852) or Springville at 185th (Stop ID 5320), due to construction. Use stops at PCC Drive &amp; Springville or NW 185th at West Union.">
+    <alert begin="1492010100000" end="" id="11" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to Beaverton Transit Center, no service to NW Springville &amp; 181st (Stop ID 8852) or Springville at 185th (Stop ID 5320), due to construction. Use stops at PCC Drive &amp; Springville or NW 185th at West Union. Test (Stop IDs 567">
         <route xmlns="urn:trimet:schedule" desc="52-Farmington/185th" route="52" id="52" type="B" no_service_flag="false"/>
     </alert>
-    <alert begin="1505508540000" end="" id="12" info_link_url="" header_text="" system_wide_flag="false" desc="The southbound stop on SE 52nd at Holgate (Stop ID 7693) is closed due to construction. Temporary stop located across Holgate.">
+    <alert begin="1505508540000" end="" id="12" info_link_url="" header_text="" system_wide_flag="false" desc="The southbound stop on SE 52nd at Holgate (Stop ID 7693) is closed due to construction. Temporary stop located across Holgate. Test (Stop ID 15">
         <route xmlns="urn:trimet:schedule" desc="71-60th Ave" route="71" id="71" type="B" no_service_flag="false"/>
     </alert>
     <alert begin="1512320220000" end="" id="13" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to Parkrose, the stop at SE 122nd &amp; E Burnside (Stop ID 6621) has temporarily moved just north of Burnside on 122nd, due to renovations on the E 122nd Ave MAX Station.">
