@@ -12,6 +12,7 @@
 <trackingError timestamp="1523776319518" offRoute="true" desc=""/>
 <detour id="17"/>
 <detour id="1"/>
+<detour id="20"/>
 <blockPosition id="9004" vehicleID="126" routeNumber="100" direction="1" tripID="8175925" newTrip="false" signMessage="Blue to Hillsboro" signMessageLong="MAX Blue Line to Hillsboro" lastLocID="8375" lastStopSeq="18" nextLocID="8376" nextStopSeq="19" at="1523776303045" heading="268" lat="45.5301095" lng="-122.6625867">
 <trip id="8175925" newTrip="false" desc="Hatfield Government Center" dir="1" route="100" destDist="159579" pattern="54" progress="70438"/>
 </blockPosition>
