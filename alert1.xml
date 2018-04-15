@@ -1,3 +1,4 @@
+<!-- Alert with a system wide detour -->
 <resultSet xmlns="urn:trimet:rt" queryTime="1523775462244">
     <alert begin="1495713600000" end="" id="1" info_link_url="https://trimet.org" header_text="Baloons" system_wide_flag="true" desc="A system wide event with balloons is happening.">
     </alert>
