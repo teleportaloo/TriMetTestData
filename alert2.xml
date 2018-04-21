@@ -3,7 +3,7 @@
     <alert begin="1495713600000" end="" id="1" info_link_url="https://trimet.org" header_text="Baloons" system_wide_flag="true" desc="A system wide event with balloons is happening.">
     </alert>
     
-    <alert begin="1495713700000" end="" id="2" info_link_url="https://trimet.org" header_text="Fog" system_wide_flag="true" desc="Woah a real pea-souper.">
+    <alert begin="1495713700000" end="1495714700000" id="2" info_link_url="" header_text="Fog" system_wide_flag="true" desc="Woah a real pea-souper.">
     </alert>
     
     <alert begin="1495713600000" end="" id="10" info_link_url="" header_text="" system_wide_flag="false" desc="No service to northbound stops on SW 158th Ave at Jenkins (Stop ID 8234), Jay (Stop ID 6839), Baseline (Stop ID 8232) and Greystone Ct (Stop ID 13202), due to construction. Use stops before or after at Merlo Rd/SW 158th MAX Stn (Stop ID 12899) or SW 158th &amp; Walker (Stop ID 6832). Test (Stop ID bad) (Stop ID ">
