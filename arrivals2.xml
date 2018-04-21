@@ -24,6 +24,6 @@
 </detour>
 <detour begin="1495713600000" end="" id="1" info_link_url="https://trimet.org" header_text="Baloons" system_wide_flag="true" desc="A system wide event with balloons is happening.">
 </detour>
- <detour begin="1495713700000" end="1495714700000" id="2" header_text="Fog" system_wide_flag="true" desc="Woah a real pea-souper.">
+ <detour begin="1495713700000" end="1495714700000" id="2" header_text="Fog" system_wide_flag="true" desc="Woah a real pea-souper everywhere except one stop - (Stop ID 365).">
 </detour>
 </resultSet>
