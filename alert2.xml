@@ -1,0 +1,111 @@
+<!-- Alert with a system wide detour -->
+<resultSet xmlns="urn:trimet:rt" queryTime="1523775462244">
+    <alert begin="1495713600000" end="" id="1" info_link_url="https://trimet.org" header_text="Baloons" system_wide_flag="true" desc="A system wide event with balloons is happening.">
+    </alert>
+    
+    <alert begin="1495713700000" end="" id="2" info_link_url="https://trimet.org" header_text="Fog" system_wide_flag="true" desc="Woah a real pea-souper.">
+    </alert>
+    
+    <alert begin="1495713600000" end="" id="10" info_link_url="" header_text="" system_wide_flag="false" desc="No service to northbound stops on SW 158th Ave at Jenkins (Stop ID 8234), Jay (Stop ID 6839), Baseline (Stop ID 8232) and Greystone Ct (Stop ID 13202), due to construction. Use stops before or after at Merlo Rd/SW 158th MAX Stn (Stop ID 12899) or SW 158th &amp; Walker (Stop ID 6832). Test (Stop ID bad) (Stop ID ">
+        <route xmlns="urn:trimet:schedule" desc="67-Bethany/158th" route="67" id="67" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1492010100000" end="" id="11" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to Beaverton Transit Center, no service to NW Springville &amp; 181st (Stop ID 8852) or Springville at 185th (Stop ID 5320), due to construction. Use stops at PCC Drive &amp; Springville or NW 185th at West Union. Test (Stop IDs 567">
+        <route xmlns="urn:trimet:schedule" desc="52-Farmington/185th" route="52" id="52" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1505508540000" end="" id="12" info_link_url="" header_text="" system_wide_flag="false" desc="The southbound stop on SE 52nd at Holgate (Stop ID 7693) is closed due to construction. Temporary stop located across Holgate. Test (Stop ID 15">
+        <route xmlns="urn:trimet:schedule" desc="71-60th Ave" route="71" id="71" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1512320220000" end="" id="13" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to Parkrose, the stop at SE 122nd &amp; E Burnside (Stop ID 6621) has temporarily moved just north of Burnside on 122nd, due to renovations on the E 122nd Ave MAX Station.">
+        <route xmlns="urn:trimet:schedule" desc="73-122nd Ave" route="73" id="73" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1506031740000" end="" id="14" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to Merlo Rd &amp; SW 158th, no service to the 800 block of SW 158 (Stop ID 10182), SW 158th at Jenkins (Stop ID 9252) and SW 158th at Walker (Stop ID 6833) due to construction. Use the temporary stop on the far side of Walker or Merlo MAX Station (Stop ID 12899). Test (Stop ID) (StopIDs bad and wrong) (Stop IDs 365) (Stop IDs ">
+        <route xmlns="urn:trimet:schedule" desc="67-Bethany/158th" route="67" id="67" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1513708440000" end="" id="15" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to Gateway, no service to SW 18th &amp; Morrison or SW Salmon &amp; 16th due to long-term construction at Providence Park. Use temporary stop located at SW 18th &amp; Alder (Stop ID 13918) or the regular stop at SW Salmon &amp; 14th (Stop ID 5012). Test (Stop IDs )">
+        <route xmlns="urn:trimet:schedule" desc="15-Belmont/NW 23rd" route="15" id="15" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1516143060000" end="" id="16" info_link_url="" header_text="" system_wide_flag="false" desc="The southbound stop at SW River Pkwy &amp; River Dr (Stop ID 13180) has closed for about 19 months, due to construction. Use the new stop at 2400 Block SW Moody (Stop ID 13994).">
+        <route xmlns="urn:trimet:schedule" desc="35-Macadam/Greeley" route="35" id="35" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="36-South Shore" route="36" id="36" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1511800080000" end="" id="17" info_link_url="" header_text="" system_wide_flag="false" desc="Regular E 122nd Ave MAX station is closed for renovation, and trains are serving temporary platforms nearby. Board MAX trains to City Center at the temporary platform just east of 122nd (Stop ID 8368). Board MAX trains to Gresham at the temporary platform just west of 122nd Ave (Stop ID 8349). ">
+        <route xmlns="urn:trimet:schedule" desc="MAX Blue Line" route="100" id="100" type="R" no_service_flag="false"/>
+    </alert>
+    <alert begin="1518801480000" end="" id="20" info_link_url="" header_text="" system_wide_flag="false" desc="The stop at NE 15th &amp; Alberta (Stop ID 6774) is closed due to construction. A temporary stop is located on 15th across Alberta.">
+        <route xmlns="urn:trimet:schedule" desc="8-Jackson Park/NE 15th" route="8" id="8" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1506910260000" end="" id="21" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to PCC, the northbound stop on 185th &amp; Springville (Stop ID 7011) is closed due to construction. Use stop on 185th &amp; West Union.">
+        <route xmlns="urn:trimet:schedule" desc="52-Farmington/185th" route="52" id="52" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1520008620000" end="" id="23" info_link_url="" header_text="" system_wide_flag="false" desc="Beginning Saturday, March 3, no service to the westbound stops on NE Sandy at 23200 Block (Stop ID 13478) and 230th (Stop ID 13091), and the eastbound stop at 23200 Block (Stop ID 13087), due to construction. Use stops before or after.">
+        <route xmlns="urn:trimet:schedule" desc="21-Sandy Blvd/223rd" route="21" id="21" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1490954400000" end="" id="25" info_link_url="" header_text="" system_wide_flag="false" desc="The northbound stop at SE 12th &amp; Pine (Stop ID 6589) is closed for construction. Use stop at Stark or Sandy.">
+        <route xmlns="urn:trimet:schedule" desc="70-12th/NE 33rd Ave" route="70" id="70" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1520971560000" end="" id="26" info_link_url="" header_text="" system_wide_flag="false" desc="No service to Baseline &amp; 10th (Stop ID 271) due to construction. A temporary stop is located at Baseline &amp; 9th.">
+        <route xmlns="urn:trimet:schedule" desc="57-TV Hwy/Forest Grove" route="57" id="57" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1522677600000" end="" id="492" info_link_url="" header_text="" system_wide_flag="false" desc="Beginning Monday, April 2nd, from 7 a.m. to 6 p.m. on weekdays, no service to the stop at SW Oak at 1st (Stop ID 12798) due to construction. A temporary stop will be located on SW Naito at Oak.">
+        <route xmlns="urn:trimet:schedule" desc="16-Front Ave/St Helens Rd" route="16" id="16" type="B" no_service_flag="false"/>
+        <location id="12798" desc="SW Oak &amp; 1st" dir="Westbound" lat="45.5204099477081" lng="-122.671968433183" passengerCode="E" no_service_flag="false"/>
+    </alert>
+    <alert begin="1522859627384" end="" id="822" info_link_url="" header_text="Construction" system_wide_flag="false" desc="No service to the northbound stop at NW 185th &amp; Tanasbourne Rd (Stop ID 8884), due to sidewalk construction. Use stops before or after.">
+        <route xmlns="urn:trimet:schedule" desc="52-Farmington/185th" route="52" id="52" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523354400000" end="" id="1171" info_link_url="" header_text="PBES Construction" system_wide_flag="false" desc="For trips to Parkrose, no service to NE 133rd &amp; Shaver (Stop ID 6719), and for trips to Gateway no service to NE Shaver &amp; 134th (Stop ID 5236), due to construction. Use stops before or after.">
+        <route xmlns="urn:trimet:schedule" desc="22-Parkrose" route="22" id="22" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1519923840000" end="" id="19" info_link_url="" header_text="" system_wide_flag="false" desc="The northbound stop in the 3900 block of SW Murray Blvd (Stop ID 4060) is closed.">
+        <route xmlns="urn:trimet:schedule" desc="62-Murray Blvd" route="62" id="62" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1521475080000" end="" id="27" info_link_url="" header_text="" system_wide_flag="false" desc="No service to the stops on SW Tualatin-Sherwood Rd at 124th (Stop IDs 13841 &amp; 13832). Please use the temporary stops located just east of the closed stops.">
+        <route xmlns="urn:trimet:schedule" desc="97-Tualatin-Sherwood Rd" route="97" id="97" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523651320040" end="" id="1470" info_link_url="" header_text="Construction" system_wide_flag="false" desc="No service to the eastbound stop at NE Halsey &amp; 157th (Stop ID 2391), due to construction. Use temporary stop on Halsey just east of 157th. ">
+        <route xmlns="urn:trimet:schedule" desc="77-Broadway/Halsey" route="77" id="77" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523652417710" end="" id="1471" info_link_url="" header_text="Bike and Ride Construction" system_wide_flag="false" desc="Beginning Monday, April 16, no service to SW 18th &amp; Goose Hollow MAX Station (Stop ID 1114), due to construction. Use Line 68 stop at SW Columbia &amp; 18th (Stop ID 10168).">
+        <route xmlns="urn:trimet:schedule" desc="6-Martin Luther King Jr Blvd" route="6" id="6" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523653294910" end="1523817000000" id="1472" info_link_url="" header_text="Bridge to Brew" system_wide_flag="false" desc="Sunday, April 15, 8-9:30 a.m., for trips to St Johns, no service between SW 6th at W Burnside and the regular stop at Rose Quarter Transit Center due to the Bridge to Brews run. From 9:30-11:30 a.m., for trips to St Johns, no service between NW Everett at 5th and N Williams at Weidler due to the Bridge to Brews run. At Rose Quarter use the temporary stop on Multnomah at Wheeler.">
+        <route xmlns="urn:trimet:schedule" desc="4-Division/Fessenden" route="4" id="4" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="44-Capitol Hwy/Mocks Crest" route="44" id="44" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523653294910" end="1523817000000" id="1473" info_link_url="" header_text="" system_wide_flag="false" desc="Sunday, April 15, 8-11:30 a.m., for trips to Dekum &amp; Durham, no stops between NW 6th at Everett and NE Multonamh at 2nd due to the Bridge to Brews Run. Temporary stops are on 6th at Flanders and on the southeast corner of Wheeler and Multnomah intersection.">
+        <route xmlns="urn:trimet:schedule" desc="8-Jackson Park/NE 15th" route="8" id="8" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523653678296" end="1523817000000" id="1475" info_link_url="" header_text="" system_wide_flag="false" desc="Sunday, April 15, from 8-11:30 a.m., for trips to Saratoga &amp; 27th, no service NW Broadway &amp; Davis (Stop ID 7759) due to the Bridge to Brews run. For trips to Holgate and 134th, no service to NW Broadway at Everett (Stop ID 13178) and W Burnside &amp; SW 5th (Stop ID 13171).">
+        <route xmlns="urn:trimet:schedule" desc="17-Holgate/Broadway" route="17" id="17" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523653818982" end="1523817000000" id="1476" info_link_url="" header_text="" system_wide_flag="false" desc="Sunday, April 15, 8-9:30 a.m., for trips University of Portland, no service between SW 6th at W Burnside and the regular stop at Rose Quarter Transit Center due to the Bridge to Brews run. From 9:30-11:30 a.m., for trips to St Johns, no service between NW Everett at 5th and N Williams at Weidler due to the Bridge to Brews run. At Rose Quarter use the temporary stop on Multnomah at Wheeler.">
+        <route xmlns="urn:trimet:schedule" desc="35-Macadam/Greeley" route="35" id="35" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523654307916" end="1523817000000" id="1478" info_link_url="" header_text="" system_wide_flag="false" desc="Sunday, April 15, 8-11:30 a.m., for trips to Troutdale, no service between NW Everett at 6th and NE Multnomah at 2nd, due to the Bridge to Brews race. Temporary stops are on 6th at Flanders and on the southeast corner of Wheeler and Multnomah intersection. For trips to Montgomery Park, no service to the stop at NW Glisan at 16th (Stop ID 2062). Use stops before or after">
+        <route xmlns="urn:trimet:schedule" desc="77-Broadway/Halsey" route="77" id="77" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523654099496" end="1524088800000" id="1479" info_link_url="" header_text="Paving" system_wide_flag="false" desc="Beginning Monday, April 16, through Wednesday, April 18, from 7 a.m. to 3 p.m. daily, no service to the eastbound stop at SW Columbia &amp; 16th (Stop ID 12792), due to paving. Use temporary stop on Columbia between 18th and 17th. ">
+        <route xmlns="urn:trimet:schedule" desc="6-Martin Luther King Jr Blvd" route="6" id="6" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="45-Garden Home" route="45" id="45" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="55-Hamilton" route="55" id="55" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="68-Marquam Hill/Collins Circle" route="68" id="68" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523880000000" end="" id="1487" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to 147th &amp; Sunnyside, no service to SE Hwy 224 &amp; 142nd (Stop ID 2908), to northbound stops on SE 152nd or to SE Sunnyside &amp; 152nd (Stop ID 12903) due to street closure. A temporary stop is located on SE 142nd just north of Hwy 224.">
+        <route xmlns="urn:trimet:schedule" desc="156-Mather Rd" route="156" id="156" type="B" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523880000000" end="" id="1486" info_link_url="" header_text="" system_wide_flag="false" desc="For trips to Clackamas Town Center, no service to SE Hwy 224 &amp; 152nd (Stop ID 2911) due to construction. Use temporary stop about 275 feet west of 152nd.">
+        <route xmlns="urn:trimet:schedule" desc="30-Estacada" route="30" id="30" type="B" no_service_flag="false"/>
+        <location id="2911" desc="SE Hwy 224 &amp; 152nd" dir="Westbound" lat="45.4098313497933" lng="-122.507575365908" passengerCode="E" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523735751924" end="" id="1524" info_link_url="" header_text="" system_wide_flag="false" desc="No stops on NW 21st &amp; Lovejoy due to debris in roadway. ">
+        <route xmlns="urn:trimet:schedule" desc="77-Broadway/Halsey" route="77" id="77" type="B" no_service_flag="false"/>
+        <location id="7122" desc="NW 21st &amp; Lovejoy" dir="Northbound" lat="45.530113999998" lng="-122.69447499998" passengerCode="E" no_service_flag="false"/>
+    </alert>
+    <alert begin="1523774933425" end="1523788200000" id="1528" info_link_url="" header_text="" system_wide_flag="false" desc="Please use your Steel bridge detour, there is a car in the right of way. westbound ONLY.">
+        <route xmlns="urn:trimet:schedule" desc="4-Division/Fessenden" route="4" id="4" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="35-Macadam/Greeley" route="35" id="35" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="8-Jackson Park/NE 15th" route="8" id="8" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="44-Capitol Hwy/Mocks Crest" route="44" id="44" type="B" no_service_flag="false"/>
+        <route xmlns="urn:trimet:schedule" desc="77-Broadway/Halsey" route="77" id="77" type="B" no_service_flag="false"/>
+    </alert>
+</resultSet>
