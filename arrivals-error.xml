@@ -1,0 +1,4 @@
+<!-- Arrivals with an error -->
+<resultSet>
+    <error>This is a horse of a different color.</error>
+</resultSet>
