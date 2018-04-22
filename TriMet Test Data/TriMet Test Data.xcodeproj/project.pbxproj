@@ -20,13 +20,13 @@
 		A18AC34B208D07EF005A4D3B = {
 			isa = PBXGroup;
 			children = (
+				A18AC354208D080D005A4D3B /* README.md */,
 				A18AC352208D080D005A4D3B /* alert1.xml */,
 				A18AC355208D080E005A4D3B /* alert2.xml */,
 				A18AC353208D080D005A4D3B /* arrivals-error.xml */,
 				A18AC357208D080E005A4D3B /* arrivals-multiple.xml */,
 				A18AC356208D080E005A4D3B /* arrivals1.xml */,
 				A18AC358208D080E005A4D3B /* arrivals2.xml */,
-				A18AC354208D080D005A4D3B /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
