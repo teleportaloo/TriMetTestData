@@ -8,4 +8,17 @@
       <text>NS Service is being suspended due to route blockage. Find alternate transportation.</text>
     </message>
   </route>
+  
+  <route tag="193">
+      <message id="1" startBoundary="1524973703034" startBoundaryStr="Sat, Apr 28 20:48:23 PDT 2018" endBoundary="1524988103034" endBoundaryStr="Sun, Apr 29 00:48:23 PDT 2018" sendToBuses="false" priority="Normal">
+          <text>A message for route 193.</text>
+      </message>
+  </route>
+  
+  <route tag="24601">
+      <message id="2" startBoundary="1524973703034" startBoundaryStr="Sat, Apr 28 20:48:23 PDT 2018" endBoundary="1524988103034" endBoundaryStr="Sun, Apr 29 00:48:23 PDT 2018" sendToBuses="false" priority="Normal">
+          <text>A message for route 24601.</text>
+      </message>
+  </route>
+      
 </body>
