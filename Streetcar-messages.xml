@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body copyright="All data copyright Portland Streetcar 2018.">
+  <route tag="all">
+    <message id="6434" startBoundary="1524973703034" startBoundaryStr="Sat, Apr 28 20:48:23 PDT 2018" endBoundary="1524988103034" endBoundaryStr="Sun, Apr 29 00:48:23 PDT 2018" sendToBuses="false" priority="Normal">
+      <text>ALL A LOOP AND B LOOP SERVICE CANCELLED FOR TONIGHT. WE APOLOGIZE FOR THE INCONVENIENCE.</text>
+    </message>
+    <message id="6438" startBoundary="1524979605558" startBoundaryStr="Sat, Apr 28 22:26:45 PDT 2018" endBoundary="1524986805558" endBoundaryStr="Sun, Apr 29 00:26:45 PDT 2018" sendToBuses="false" priority="High">
+      <text>NS Service is being suspended due to route blockage. Find alternate transportation.</text>
+    </message>
+  </route>
+</body>
