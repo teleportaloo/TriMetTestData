@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		A15AF11520964FA8004F1040 /* Streetcar-messages.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "Streetcar-messages.xml"; path = "../Streetcar-messages.xml"; sourceTree = "<group>"; };
+		A17B734A20A021530072F3D1 /* tm_routes_v3.kml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = tm_routes_v3.kml; path = ../tm_routes_v3.kml; sourceTree = "<group>"; };
 		A18AC352208D080D005A4D3B /* alert1.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = alert1.xml; path = ../alert1.xml; sourceTree = "<group>"; };
 		A18AC353208D080D005A4D3B /* arrivals-error.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "arrivals-error.xml"; path = "../arrivals-error.xml"; sourceTree = "<group>"; };
 		A18AC354208D080D005A4D3B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
@@ -21,6 +22,7 @@
 		A18AC34B208D07EF005A4D3B = {
 			isa = PBXGroup;
 			children = (
+				A17B734A20A021530072F3D1 /* tm_routes_v3.kml */,
 				A15AF11520964FA8004F1040 /* Streetcar-messages.xml */,
 				A18AC354208D080D005A4D3B /* README.md */,
 				A18AC352208D080D005A4D3B /* alert1.xml */,
