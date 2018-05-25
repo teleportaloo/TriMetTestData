@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		A15AF11520964FA8004F1040 /* Streetcar-messages.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "Streetcar-messages.xml"; path = "../Streetcar-messages.xml"; sourceTree = "<group>"; };
+		A16FFE0420B8B8C60093D4C5 /* nextbus_alert.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = nextbus_alert.xml; path = ../nextbus_alert.xml; sourceTree = "<group>"; };
 		A17B734A20A021530072F3D1 /* tm_routes_v3.kml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = tm_routes_v3.kml; path = ../tm_routes_v3.kml; sourceTree = "<group>"; };
 		A18AC352208D080D005A4D3B /* alert1.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = alert1.xml; path = ../alert1.xml; sourceTree = "<group>"; };
 		A18AC353208D080D005A4D3B /* arrivals-error.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "arrivals-error.xml"; path = "../arrivals-error.xml"; sourceTree = "<group>"; };
@@ -25,6 +26,7 @@
 				A17B734A20A021530072F3D1 /* tm_routes_v3.kml */,
 				A15AF11520964FA8004F1040 /* Streetcar-messages.xml */,
 				A18AC354208D080D005A4D3B /* README.md */,
+				A16FFE0420B8B8C60093D4C5 /* nextbus_alert.xml */,
 				A18AC352208D080D005A4D3B /* alert1.xml */,
 				A18AC355208D080E005A4D3B /* alert2.xml */,
 				A18AC353208D080D005A4D3B /* arrivals-error.xml */,
